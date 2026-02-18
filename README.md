@@ -1,16 +1,55 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**Vito666666/Vito666666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vito, a student / frontend developer / cybersecurity content developer based in Czechia.
+I enjoy building clean, modern interfaces and making software that feels good to use.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### These days I'm focused on:
+
+- <main tech stack — e.g. React, TypeScript, Tailwind>
+- <area — e.g. UI/UX, performance, backend architecture>
+- <goal — e.g. learning system design / algorithms / graphics>
+- Small projects with attention to detail
+
+---
+
+### Some stuff I built:
+
+- **<Project name>** – <short 1-line description>
+- **<Project name>** – <short 1-line description>
+- **<Project name>** – <short 1-line description>
+- **<Project name>** – <short 1-line description>
+- **<Project name>** – <short 1-line description>
+- **<Project name>** – <short 1-line description>
+
+---
+
+### Tech I use
+
+**Languages**
+`<JS>` `<TS>` `<C#>` `<Python>` `<ORACLE SQL>`
+
+**Frontend**
+`React` `Tailwind` `HTML` `CSS` `Astro`
+
+**Backend**
+`Flask` `Django`  
+
+**Tools**
+`Git` `Docker` `Linux` `VSCode`
+
+---
+
+### Fun facts
+
+- I like cats (have three of them)
+- Love playing horror games, reading sci-fi 
+- I am also interested in electronics or computer networking
+
+---
+
+### Contact
+
+- GitHub: https://github.com/Vito666666
+- Email: vit.sebestyen@outlook.cz
