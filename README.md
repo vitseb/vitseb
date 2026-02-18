@@ -14,7 +14,7 @@ I enjoy building clean, modern interfaces and making software that feels good to
 
 I made quite lot of projects, some of them are shown on my [portfolio](https://www.vitseb.eu/)
 
-### Tech I use
+### Tech I use:
 
 **Languages**
 `JS` `TS` `C#` `Python` `ORACLE SQL`
@@ -28,13 +28,13 @@ I made quite lot of projects, some of them are shown on my [portfolio](https://w
 **Tools**
 `Git` `Docker` `Linux` `VSCode`
 
-### Fun facts
+### Fun facts:
 
 - I like cats (have three of them)
 - Love playing horror games, reading sci-fi 
 - I am also interested in electronics or computer networking
 
-### Contact
+### Contact:
 
 - GitHub: https://github.com/Vito666666
 - Email: vit.sebestyen@outlook.cz
