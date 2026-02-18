@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Vito, a student / frontend developer / cybersecurity content developer based in Czechia.
+I'm Vito, a student / frontend developer / cybersecurity content developer based in Czechia.\n
 I enjoy building clean, modern interfaces and making software that feels good to use.
 
 ### These days I'm focused on:
