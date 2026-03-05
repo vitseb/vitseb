@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>- Finishing my studies and preparing for university<br>- Improving my frontend architecture skills<br>- Expanding my portfolio with new real-world projects<br><br>👯 I’m looking to collaborate on<br>- Frontend projects (React, Astro, Tailwind)<br>- Open-source web applications<br>- Cyber-Security focused content<br><br>🌱 I’m currently learning<br>- Python<br>- Electronics basics<br>- Computer networking<br><br>⚡ Fun fact<br>- I have three cats 🐱<br>- I love horror games and sci-fi books<br>- I’m interested in electronics and networking<br>- I experiment with trading & investing
+# About Me:
+I’m currently working on<br>- Finishing my studies and preparing for university<br>- Improving my frontend architecture skills<br>- Expanding my portfolio with new real-world projects<br><br>👯 I’m looking to collaborate on<br>- Frontend projects (React, Astro, Tailwind)<br>- Open-source web applications<br>- Cyber-Security focused content<br><br>🌱 I’m currently learning<br>- Python<br>- Electronics basics<br>- Computer networking<br><br>⚡ Fun fact<br>- I have three cats 🐱<br>- I love horror games and sci-fi books<br>- I’m interested in electronics and networking<br>- I experiment with trading & investing
 
 
 ## 🌐 Socials:
